@@ -1,13 +1,10 @@
-### Node + Typescript template repository
+### TDD class (module 1) 
 
-### Already setup
-- Node + Typescript
-- ESM
-- ESLint
-- Prettier
-- Jest
+### Recommended setup
+- Enable "Format on save" in your IDE
 
 ### Commands available through `npm run`
 - `cli`: compile and run index.ts
 - `freshstart`: remove .git folder to clean up the git history
-- The usual `test`, `test:w`, `typecheck|tc`, `typecheck|tc:w`
+- `test`, `test:w`, 
+- `typecheck` or `tc`, `typecheck:w` or `tc:w`
